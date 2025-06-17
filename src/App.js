@@ -302,7 +302,7 @@ const App = () => {
                       </div>
                     </div>
                   </a>
-                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devshah31804@gmail.com" target="_blank" className="d-block contact-link mb-4 p-3 rounded text-decoration-none text-reset">
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devshah31804@gmail.com" target="_blank" rel="noreferrer" className="d-block contact-link mb-4 p-3 rounded text-decoration-none text-reset">
                     <div className="d-flex align-items-start">
                       <div className="me-3 fs-4">✉️</div>
                       <div>
@@ -419,7 +419,7 @@ const App = () => {
                 <a href="https://github.com/devshah4956" target="_blank" rel="noopener noreferrer" className="text-white">
                   <i className="bi bi-github fs-4"></i>
                 </a>
-                <a href="mailto:devshah31804@gmail.com" className="text-white">
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devshah31804@gmail.com" target="_blank" rel="noreferrer" className="text-white">
                   <i className="bi bi-envelope fs-4"></i>
                 </a>
               </div>

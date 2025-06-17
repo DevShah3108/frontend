@@ -11,7 +11,7 @@ const ProjectCard = ({ title, description, technologies, images = [] }) => {
     }, 3000);
 
     return () => clearInterval(interval);
-  }, [images?.length || 0]);
+  }, [images.length || 0]);
 
   return (
     <div className="card p-3 shadow-sm h-100">
