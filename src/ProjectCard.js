@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 const ProjectCard = ({ title, description, technologies, images = [] }) => {
   const [currentImage, setCurrentImage] = useState(0);

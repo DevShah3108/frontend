@@ -1,4 +1,3 @@
-import React from 'react';
 import axios from 'axios';
 import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -447,7 +446,7 @@ const App = () => {
                 <li className="mb-3 d-flex align-items-center">
                   <i className="bi bi-envelope me-3 text-info fs-5"></i>
                   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devshah31804@gmail.com"
-                  target='_blank' className="text-white-50 text-decoration-none hover-underline">
+                  target='_blank' rel="noopener noreferrer"  className="text-white-50 text-decoration-none hover-underline">
                     devshah31804@gmail.com
                   </a>
                 </li>
