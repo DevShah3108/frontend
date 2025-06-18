@@ -95,7 +95,7 @@ const App = () => {
                 <h6 className="text-uppercase text-muted mb-3">B.E. IT Student</h6>
                 <h1 className="display-4 fw-bold mb-4">Dev Shah</h1>
                 <p className="lead text-secondary mb-4" style={{ maxWidth: '600px', lineHeight: 1.75, fontSize: '1.125rem' }}>
-                  I'm Dev Shah, an Information Technology student at SVIT with a passion for software development and AI/ML integration. I thrive on exploring emerging technologies like IoT and turning them into practical, efficient solutions. Committed to continuous learning, I transform ideas into impactful software every day.
+                  I'm Dev Shah, an Information Technology(L.Y.) student at SVIT with a passion for software development and AI/ML integration. I thrive on exploring emerging technologies like IoT and turning them into practical, efficient solutions. Committed to continuous learning, I transform ideas into impactful software every day.
                 </p>
                 <div className="d-flex flex-wrap gap-3">
                   <Button href="#projects" variant="outline-dark" size="lg" className="px-4 py-2 fw-medium">
